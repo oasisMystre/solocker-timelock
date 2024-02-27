@@ -1,4 +1,4 @@
-Solocker timelocker #Streamflow custom fcrk
+Solocker timelocker #Streamflow custom fork
 ---
 
 _Disclaimer: This is a Community (free and open-source) version of a [Streamflow protocol](https://github.com/streamflow-finance/js-sdk).
